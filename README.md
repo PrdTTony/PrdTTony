@@ -13,11 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PrdTTony](https://github.com/PrdTTony)
 
-- 📝 I regularly write articles on [https://github.com/PrdTTony](https://github.com/PrdTTony)
-
 - 📫 How to reach me **prodbyttony@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/PrdTTony](https://github.com/PrdTTony)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prdttony&show_icons=true&locale=en&layout=compact" alt="prdttony" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prdttony&show_icons=true&locale=en" alt="prdttony" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prdttony&" alt="prdttony" /></p>
